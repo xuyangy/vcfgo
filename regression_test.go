@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/brentp/vcfgo"
+	"github.com/xuyangy/vcfgo"
 
 	. "gopkg.in/check.v1"
 )

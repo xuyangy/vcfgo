@@ -4,8 +4,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/brentp/irelate/interfaces"
-	vcfgo "github.com/brentp/vcfgo"
+	"github.com/xuyangy/irelate/interfaces"
+	vcfgo "github.com/xuyangy/vcfgo"
 
 	. "gopkg.in/check.v1"
 )
